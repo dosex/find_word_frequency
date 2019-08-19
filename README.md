@@ -34,9 +34,9 @@ since the text could be split up into smaller chunks and then a number of worker
 run the algorithm in parallel.
 
 __Sources used:__
-https://spring.io/guides/gs/rest-service/
-https://en.wikipedia.org/wiki/Levenshtein_distance
-https://en.wikipedia.org/wiki/Wagner%E2%80%93Fischer_algorithm
+* https://spring.io/guides/gs/rest-service/
+* https://en.wikipedia.org/wiki/Levenshtein_distance
+* https://en.wikipedia.org/wiki/Wagner%E2%80%93Fischer_algorithm
 
 
 [1]: https://en.wikipedia.org/wiki/Levenshtein_distance#Upper_and_lower_bounds           
