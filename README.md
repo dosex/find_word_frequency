@@ -29,7 +29,7 @@ for the Levenshtein distance as described on [Wikipedia][1]. But I opted to impl
 a slightly improved version of the [Wagner–Fischer algorithm][2] which is easy to 
 understand but not the most efficient one.
 
-I also must say that this kind of task could heavily benefit from parallel computing,
+I also think that this kind of task would heavily benefit from parallel computing,
 since the text could be split up into smaller chunks and then a number of workers could
 run the algorithm in parallel.
 
